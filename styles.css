@@ -79,7 +79,7 @@ article, .video {
     }
 
 
-/* General Styles for Icon Buttons 
+/* General Styles for Icon Buttons }*/
 .icon-button {
     display: inline-flex;
     align-items: center;
@@ -92,7 +92,7 @@ article, .video {
     font-size: 24px;
     text-decoration: none;
     transition: transform 0.3s;
-}*/
+
 
 /* YouTube Button Style */
 .icon-button.youtube {
