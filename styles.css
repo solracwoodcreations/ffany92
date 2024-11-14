@@ -12,14 +12,16 @@ body {
 
 header {
     background-color: #333;
-    color: #ee280a;
+    color: #470aee;
     padding: 1em;
     
     
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: cursive;
+    font-size: 65px;
+    font-style: italic;
 }
 
 header nav a {
@@ -50,7 +52,7 @@ article, .video {
 
     
     header {
-        background-image: url("images/\ oregon1.png");
+        background-image: url("images/\ .png");
         background-size: cover;
         background-position: center;
         color: #fff;
