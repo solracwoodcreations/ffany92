@@ -12,10 +12,14 @@ body {
 
 header {
     background-color: #333;
-    color: #fff;
+    color: #ee280a;
     padding: 1em;
     
     
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header nav a {
