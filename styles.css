@@ -46,7 +46,7 @@ article, .video {
 
     
     header {
-        background-image: url("images/ .png");
+        background-image: url("images/\ oregon1.png");
         background-size: cover;
         background-position: center;
         color: #fff;
@@ -55,7 +55,7 @@ article, .video {
     }
     
     footer {
-        background-image: url("images/ oregon.png");
+        background-image: url("images/ .png");
         background-size: cover;
         background-position: center;
         color: #000000;
