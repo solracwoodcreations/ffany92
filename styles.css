@@ -79,20 +79,7 @@ article, .video {
     }
 
 
-/* General Styles for Icon Buttons */
-.icon-button {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 50px;
-    height: 50px;
-    margin: 10px;
-    border-radius: 50%;
-    color: white;
-    font-size: 24px;
-    text-decoration: none;
-    transition: transform 0.3s;
-}
+
 
 
 /* YouTube Button Style */
@@ -113,5 +100,18 @@ article, .video {
     transform: scale(1.1);
 }
 
-    
+    /* General Styles for Icon Buttons */
+.icon-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+    transition: transform 0.3s;
+}
   
