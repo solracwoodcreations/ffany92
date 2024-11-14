@@ -67,6 +67,10 @@ article, .video {
             padding: 30px 10px;
         }
         
+        .main {
+            padding: 2em;
+            }
+        
         .footer {
             padding: 15px 0;
         }
